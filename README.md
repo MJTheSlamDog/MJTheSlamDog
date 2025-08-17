@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 I Reside in Johannesburg Gauteng.<br>🎓 I have a Diploma in Software Development<br>💼 I'm Currently working on building real world projects.<br>🤝 I'm looking to collaborate on any small to medium projects.<br>
+📍 I Reside in Johannesburg Gauteng.<br>🎓 I have a Diploma in Software Development<br>💼 I'm Currently working on Pursuing my AWS Practitioner.<br>🤝 Feel free to reach out for anything IT related.<br>
 
 
 # 💻 Tech Stack:
