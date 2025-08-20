@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 I Reside in Johannesburg Gauteng.<br>🎓 I have a Diploma in Software Development<br>💼 I'm Currently working on Pursuing my AWS Practitioner.<br>🤝 Feel free to reach out for anything IT related.<br>
+📍 I Reside in Johannesburg Gauteng.<br>🎓 I have a Diploma in Software Development<br>💼 I'm Currently working on Pursuing my AWS Practitioner.<br>🤝 Feel free to reach out for anything IT related.<br>✉️ mkhwanazimlandvo@gmail.com
 
 
 # 💻 Tech Stack:
